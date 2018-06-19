@@ -1,7 +1,7 @@
 # TestLinks
 
-VSCO X Purchase:
-[vsco://vscoxpurchase](vsco://vscoxpurchase)
+## VSCO X Purchase:
+<vsco://vscoxpurchase>
 
-VSCO Subscription Settings:
-[vsco://appstoresubsmanagement](vsco://appstoresubsmanagement)
+## VSCO Subscription Settings:
+<vsco://appstoresubsmanagement>
